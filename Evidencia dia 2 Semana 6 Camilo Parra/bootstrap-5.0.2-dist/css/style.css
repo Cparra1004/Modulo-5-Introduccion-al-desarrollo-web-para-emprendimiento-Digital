@@ -1,0 +1,55 @@
+.header {
+	background: url(../imagenes/imagen1.jfif) no-repeat center;
+	background-size: cover;
+	min-height:100vh ;
+}
+
+.header .navbar
+{
+	background-color: transparent !important;
+}
+
+.header .login
+{
+	background-color: transparent !important;
+}
+
+
+.center {
+   text-align: center;
+   color: white;
+   font-size: 20px;
+   line-height: 40px;
+}
+ 
+h1;h2;h3;h4;h5
+{
+	font-family: cursive;
+	font-style: italic;
+	font-size: 20px;
+    line-height: 40px;
+
+}        
+	
+.fondo2
+{
+	background-color: blueviolet;
+
+}
+
+.imagenes
+
+{   
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    float: right;
+    width: 200px; 
+    height: 200px;
+    border-top-right-radius:10px; 
+	border-bottom-right-radius:10px;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	
+}
+
